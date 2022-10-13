@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My wordpress	</title>
+	Comments for My wordpress	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vinh989989.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
+		Comment on Chào tất cả mọi người! by Một người bình luận WordPress		</title>
 		<link>https://vinh989989.github.io/mywordpress/2022/09/12/chao-moi-nguoi/#comment-1</link>
 
 		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
