@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/shock-absorber-mounting/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vinh989989.github.io/mywordpress/san-pham/shock-absorber-mounting/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 04:17:16 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 03:02:52 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
